@@ -47,7 +47,7 @@ function LoginOrRegister() {
                     </div>
                     
                     <div className="auth-title">
-                        <h1>VIT Vellore Universityyy</h1>
+                        <h1>VIT Vellore University</h1>
                         <p>Student Portal Authentication</p>
                     </div>
                     
